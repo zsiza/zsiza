@@ -3,25 +3,16 @@
 🎓 **BSc in Computer Science (2026 Graduate)**  
 💻 Interested in **Software Development** and **Software Testing**  
 📜 **ISTQB CTFL Certified (Certified Tester Foundation Level)**  
-🩷 **Open to Work**
+📜 **Microsoft Certified - Azure Databricks Associate Engineer**  
+🩷 **Employed by Samsung Hungary**
 
 
 
 ## About Me
-
-I recently graduated with a degree in Computer Science and I am currently looking for opportunities in **software development or software testing**. I enjoy learning new technologies and continuously improving the way I work.
-
-I am actively building and working on **new projects** to strengthen my technical skills and gain practical experience.
-
-
+Working Hard
 
 ## What I'm Working On
-
-- Building new development projects
-- Improving my programming and testing skills
-- Learning more about **test automation** and modern development tools
-
-
+- new test pipelines
 
 ## Skills & Mindset
 
